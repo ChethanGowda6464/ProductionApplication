@@ -1,0 +1,3 @@
+[submodule "aleenta"]
+	path = aleenta
+	url = https://github.com/ChethanGowda6464/ProductionApplication.git
